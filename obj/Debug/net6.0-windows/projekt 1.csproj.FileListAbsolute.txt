@@ -1,0 +1,50 @@
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\bin\Debug\net6.0-windows\projekt 1.exe
+C:\Users\kubaw\source\repos\Jwojtyczko\projekt-1\bin\Debug\net6.0-windows\projekt 1.deps.json
+C:\Users\kubaw\source\repos\Jwojtyczko\projekt-1\bin\Debug\net6.0-windows\projekt 1.runtimeconfig.json
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\bin\Debug\net6.0-windows\projekt 1.dll
+C:\Users\kubaw\source\repos\Jwojtyczko\projekt-1\bin\Debug\net6.0-windows\ref\projekt 1.dll
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\bin\Debug\net6.0-windows\projekt 1.pdb
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1.csproj.AssemblyReference.cache
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1_MarkupCompile.cache
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1_MarkupCompile.lref
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1.g.resources
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1.AssemblyInfoInputs.cache
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1.AssemblyInfo.cs
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1.csproj.CoreCompileInputs.cache
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1.dll
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\ref\projekt 1.dll
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1.pdb
+C:\Users\kubaw\source\repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\projekt 1.genruntimeconfig.cache
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Users\kubaw\Source\Repos\Jwojtyczko\projekt-1\obj\Debug\net6.0-windows\Page1.baml
+C:\Users\Marek\source\repos\projekt\bin\Debug\net6.0-windows\projekt 1.exe
+C:\Users\Marek\source\repos\projekt\bin\Debug\net6.0-windows\projekt 1.deps.json
+C:\Users\Marek\source\repos\projekt\bin\Debug\net6.0-windows\projekt 1.runtimeconfig.json
+C:\Users\Marek\source\repos\projekt\bin\Debug\net6.0-windows\projekt 1.dll
+C:\Users\Marek\source\repos\projekt\bin\Debug\net6.0-windows\projekt 1.pdb
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1.csproj.AssemblyReference.cache
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\Logowanie.g.cs
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1_MarkupCompile.cache
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1_MarkupCompile.lref
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\Logowanie.baml
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\Page1.baml
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1.g.resources
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1.AssemblyInfoInputs.cache
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1.AssemblyInfo.cs
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1.csproj.CoreCompileInputs.cache
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1.dll
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\refint\projekt 1.dll
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1.pdb
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\projekt 1.genruntimeconfig.cache
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\ref\projekt 1.dll
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\Rejestracja.g.cs
+C:\Users\Marek\source\repos\projekt\obj\Debug\net6.0-windows\Rejestracja.baml
